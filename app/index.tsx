@@ -13,6 +13,9 @@ export default function Home() {
       <Link href="/lab_4" asChild>
         <Text style={{ fontSize: 18, color: "blue" }}>Go to Lab 4</Text>
       </Link>
+      <Link href="/lab_5" asChild>
+        <Text style={{ fontSize: 18, color: "blue" }}>Go to Lab 5</Text>
+      </Link>
 
     </View>
   );
